@@ -1,2 +1,3 @@
-# GovTabletWireless-Eligibility-Checker
-A simple eligibility checker for free government tablets &amp; wireless service. Users can check their eligibility and apply at https://govtabletwireless.com/apply-now/.
+🚀 A simple browser extension that helps users check their eligibility for free government tablets & wireless services.
+
+Users can check their eligibility based on income level and government assistance programs and apply directly at [GovTabletWireless.com/apply-now/.](https://govtabletwireless.com/apply-now/) .
